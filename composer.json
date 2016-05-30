@@ -1,0 +1,18 @@
+{
+  "name": "pragmatists/medicineDoseKata",
+  "autoload": {
+    "psr-0": {
+      "medicineDoseKata": ""
+    }
+  },
+  "require": {
+    "mockery/mockery": "^0.9.5",
+    "phpunit/phpunit": "^5.3"
+  },
+  "authors": [
+    {
+      "name": "Krzysztof Jelski",
+      "email": "krzysztof.jelski@pragmatists.pl"
+    }
+  ]
+}
