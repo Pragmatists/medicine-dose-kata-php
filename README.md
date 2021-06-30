@@ -1,3 +1,15 @@
+## Build
+You can build this project using `composer`. You can download composer package manger from: https://getcomposer.org/download/  
+
+Project uses phpunit version 9 that requires a PHP 7.3 or PHP 7.4 (https://phpunit.de/getting-started/phpunit-9.html)
+
+Build project  
+``composer install``
+
+Run tests   
+``composer tets``
+
+
 Wearables stają się coraz bardziej popularne. Powoli wkraczają też do świata medycyny.
 
 Twoim zadaniem będzie napisanie kontrolera do SmartWatcha, który na podstawie stanu pacjenta dobierze odpowiednią porcję
