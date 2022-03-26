@@ -6,7 +6,7 @@
   },
   "require": {
     "mockery/mockery": "^0.9.5",
-    "phpunit/phpunit": "^8"
+    "phpunit/phpunit": "^5"
   },
    "scripts": {
     "test": "phpunit --testdox"
